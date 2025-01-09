@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @QuanZ827
-- 👀 I’m interested in BIM Tech
-- 🌱 I’m currently learning Python & C# 
-
+- 🏫USC 21' - Master of Building Science
+- 👔Data Center BIM Lead @WSP
+- 💻Revit Computational Designer/Dynamo User&Developer/Python
+- 📦Dynamo Package - Quan
 
